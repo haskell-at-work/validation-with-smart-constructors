@@ -1,7 +1,9 @@
 name:                smart-constructors
 version:             0.1.0.0
-cabal-version:       1.2
+license:             MPL-2.0
+license-file:        LICENSE
 build-type:          Simple
+cabal-version:       >= 1.2
 
 library
   hs-source-dirs:      src
